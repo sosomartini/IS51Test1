@@ -16,3 +16,28 @@ If option2 is better, we output the user “option2 is better”
 
 
 """
+
+"""
+# option1
+Return 100 * 10
+
+# opton2
+Amount  = 1
+List1 = []
+Loop 10 times
+	Add amount to list1
+	Amount *= 2
+Sum = sum of all items in loop
+Return sum
+# main
+	Var1 = option1
+	Var2 = option1
+If var1 = var2
+	“option 1 and option 2 pays the same”
+If var1 < var2
+	“Option2 is better"
+Else
+	“option 1 is better”
+
+Main
+"""
